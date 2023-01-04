@@ -1,0 +1,80 @@
+body{
+    margin: 10px;
+    
+}
+
+header {
+    height: 20px;
+    background-color: pink;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: center;
+    padding: 3px;
+    margin-bottom: 10px;
+
+}
+nav {
+    height: 20px;
+    background-color: orange;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: center;
+    padding: 3px;
+    margin-bottom: 20px;
+
+}
+div{
+    height: 290px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+aside {
+    height: 300px;
+    width: 800px;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: center;
+    background-color: yellow;
+    line-height: 300px;
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+section{ 
+    height: 300px;
+    width: 800px;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: center;
+    background-color: green;
+
+    
+ 
+    
+}
+article {
+    
+    margin: 20px 10px;
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    padding-top: 20px;
+
+    
+    
+    
+    
+}
+footer{
+    background-color: blanchedalmond;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: center;
+}
